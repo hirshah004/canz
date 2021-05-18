@@ -7038,7 +7038,7 @@ svg:not(:root) {
     border: 1px solid #E7E7E7;
 }
 .why-project {
-    background-color: #211E3B;
+    background-color: #3160d2;
     background-position: 0 65px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7439,11 +7439,11 @@ svg:not(:root) {
 }
 
 .footer-v2 {
-    background-color: #ef1f34;
+    background-color: #FF1F33;
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 110px 0 100px 0;
+    padding: 110px 0 w 0;
 }
 .ft-contact-info {
     padding-bottom: 20px;
